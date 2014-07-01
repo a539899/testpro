@@ -7,3 +7,4 @@ lkjnjdgjfdngv
 test revert
 test reset 2
 test reset 3
+test fetch
