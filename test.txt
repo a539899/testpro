@@ -8,4 +8,4 @@ test revert
 test reset 2
 test reset 3
 test fetch
-test ssh
+test1 ssh
